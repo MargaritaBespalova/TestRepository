@@ -1,2 +1,3 @@
 Hello, rita!
 Hello again
+Second line in master
